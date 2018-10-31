@@ -1,5 +1,4 @@
 ## **文章目录**
-#
 * 本文最后更新于 2018年1月18日 12:32 可能会因为没有更新而失效。如已失效或需要修正，请留言！
 * 最近经常有小白找我让我把他们安装ShadowsocksR服务端，一开始都是手动安装的，后来嫌麻烦，就打算用脚本，但是网上基本上只是安装一下就没了，只能算一键安装脚本，并不足够方便和适合懒人和小白，于是自己写了一个一键管理脚本，一键安装和一键管理的区别！
 更多的Shadowsocks安装教程/一键脚本请看这里：[Shadowsocks指导篇](https://doub.ws/ss-jc26/#2.2.2、搭建Shadowsocks服务)
@@ -8,7 +7,6 @@
 * 请确定你信任我和我的脚本，否则请不要用我的脚本，少BB！
 
 ## **系统要求**
-#
 > **CentOS 6+ / Debian 6+ / Ubuntu 14.04 +**
 推荐**Debian 7 x64**，这个是我一直使用的系统，我的脚本在这个系统上面出错率最低。并且最容易安装锐速（锐速不支持OpenVZ）  
 > CentOS根据大家的要求，加入了CentOS 6和7的支持，CentOS 7 自带防火墙问题(firewalld)自行解决，其他版本没有做测试。
@@ -85,8 +83,8 @@
 >安装目录：/usr/local/shadowsocksr
 >配置文件：/etc/shadowsocksr/user-config.json
 >```
-## 其他说明
 
+## 其他说明
 >ShadowsocksR 安装后，自动设置为 系统服务，所以支持使用服务来启动/停止等操作，同时支持开机启动。  
 >>1. 启动 ShadowsocksR：/etc/init.d/ssr start
 >>2. 停止 ShadowsocksR：/etc/init.d/ssr stop
