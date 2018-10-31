@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Centos Debian Ubuntu ShadowsocksR
+subtitle:   Linux ShadowsocksR一键管理脚本
+date:       2018-06-05
+author:     daigao
+header-img: img/post-bg-cook.jpg
+catalog: true
+tags:
+    - Linux
+---
 ## **文章目录**
 * 本文最后更新于 2018年1月18日 12:32 可能会因为没有更新而失效。如已失效或需要修正，请留言！
 * 最近经常有小白找我让我把他们安装ShadowsocksR服务端，一开始都是手动安装的，后来嫌麻烦，就打算用脚本，但是网上基本上只是安装一下就没了，只能算一键安装脚本，并不足够方便和适合懒人和小白，于是自己写了一个一键管理脚本，一键安装和一键管理的区别！
