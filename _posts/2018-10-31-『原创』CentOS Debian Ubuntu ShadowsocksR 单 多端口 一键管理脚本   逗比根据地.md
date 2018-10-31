@@ -188,3 +188,5 @@ tls1.2_ticket_auth 与 tls1.2_ticket_fastauth 的区别为，后者不会等待�
 **更多的Shadowsocks安装教程/一键脚本请看这里：**[Shadowsocks指导篇](https://doub.ws/ss-jc26/#2.2.2、搭建Shadowsocks服务)  
 **转载请超链接注明：**[逗比根据地](https://doub.ws/ss-jc42/) » 『[原创』CentOS/Debian/Ubuntu ShadowsocksR 单/多端口 一键管理脚本](https://doub.ws/ss-jc42/)  
 **责任声明**：本站一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本站概不负责！
+
+
