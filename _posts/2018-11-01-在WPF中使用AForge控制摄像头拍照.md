@@ -153,6 +153,7 @@ namespace VideoOrc
             Bitmap bmp = (Bitmap)eventArgs.Frame.Clone();
             bmp.RotateFlip(RotateFlipType.Rotate180FlipY);
             this.picBox.Image = bmp;
+            //资源回收/不然会爆内存
             GC.Collect();
         }
 
