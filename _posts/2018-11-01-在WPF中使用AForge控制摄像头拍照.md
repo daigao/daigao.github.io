@@ -7,7 +7,7 @@ author:     daigao
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - WPF WinForm
+    - WPF
 ---
 
 # 一、AForge.NET简介
@@ -170,3 +170,5 @@ namespace VideoOrc
 
 - [AForge.NET 入门](https://blog.csdn.net/iwbfaith/article/details/54838427)
 - [在WPF中使用AForge.net控制摄像头拍照](http://www.cnblogs.com/xhwang2003/archive/2013/02/07/AForge.html)
+
+
