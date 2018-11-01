@@ -41,7 +41,7 @@ AForge.NET是一个专门为开发者和研究者基于C#框架设计的，这�
 2. 添加如下引用
     > WindowsFormsIntegration (与WinForm交互的支持）  
     >System.Windows.Forms (WinForm控件支持)  
-    >如果AForge下载的dll，请引用[链接](#二、下载与添加AForge引用)中的组件
+    >如果AForge下载的dll，请引用[标题二](#二、下载与添加AForge引用)中的组件
 
 3. 在XAML中添加
 xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"  (用wf代替System.Windows.Forms,即可使用< wf:PictureBox/>添加PictureBox控件
