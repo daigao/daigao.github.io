@@ -47,12 +47,14 @@ AForge.NET是一个专门为开发者和研究者基于C#框架设计的，这�
 xmlns:wf="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"  (用wf代替System.Windows.Forms,即可使用< wf:PictureBox/>添加PictureBox控件
 
 4. 在界面相应位置添加
-```
+
+```xml
 <WindowsFormsHost Name="winForm">
 　　<wf:PictureBox Name="myPicture"/>
 </WindowsFormsHost>
 (至此，界面层的设置完成）
 ```
+
 # 四、using引用
 
 ```
